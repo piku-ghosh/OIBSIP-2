@@ -1,3 +1,3 @@
 # OIBSIP-2
-My Protfolio
+My Portfolio
 Oasis Infobyte Internship Web development second task.
